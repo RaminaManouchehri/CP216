@@ -1,0 +1,19 @@
+-------------------------------------------------------
+answers.txt
+-------------------------------------------------------
+Author: Ramina Manouchehri
+ID:     169042249 
+Email:   mano2249@mylaurier.ca
+Date:    Saturday February 10
+-------------------------------------------------------
+Answers for Lab 3
+-------------------------------------------------------
+
+Task 1
+1. The value of decimal signed for r3 is -1, and 4294967295 for decimal unsigned.
+
+Task 2
+1. the address of COUNTER in hexadecimal is 0001018.
+
+Task 3
+1. The constants for LED_BITS and DELAY_TIME are now stored in memory locations and can be referenced by the variables R4 and R5.
