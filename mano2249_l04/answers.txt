@@ -1,0 +1,14 @@
+-------------------------------------------------------
+answers.txt
+-------------------------------------------------------
+Author:  
+ID:      
+Email:   
+Date:    
+-------------------------------------------------------
+Answers for Lab 4
+-------------------------------------------------------
+Task 2
+Yes you can determine the number of bytes in the list without using a loop
+this is done by using the subtract instruction and calculating the difference between the starting and ending addresses
+and adding the number of bytes the elements in the list are.
