@@ -1,0 +1,12 @@
+-------------------------------------------------------
+answers.txt
+-------------------------------------------------------
+Author:  
+ID:      
+Email:   
+Date:    
+-------------------------------------------------------
+Answers for Lab 5
+-------------------------------------------------------
+Task 2
+After not preserving r4 it says "Function clobbered register(s): r4 meaning that the register has been changed in the function, and the simulator requests a breakpoint.
