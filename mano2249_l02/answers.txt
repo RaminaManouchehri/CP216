@@ -1,0 +1,22 @@
+-------------------------------------------------------
+answers.txt
+-------------------------------------------------------
+Author:  Ramina Manouchehri
+ID:      169042249
+Email:   mano2249@mylaurier.ca
+Date: 2024-02-03  
+-------------------------------------------------------
+Answers for Lab 2
+-------------------------------------------------------
+
+Task 1
+1. ldr format is incorrect for line 19 and 21, it must be =A and =B on lines 19 and 21
+2. dd r2, r1, [r0] is incorrect, the brackets around r0 must be removed on line 23
+
+Task 2
+1. str r2, r3 is incorrect there must be brackets around r3 on lines 26 and 30
+2. ldr r3, =Difff has an extra f on line 29
+
+Task 3
+Vec2:
+1. .word 6 is incorrect because it assigns a nonzero value in .bss section it must be moved under .data
